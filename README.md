@@ -3,6 +3,7 @@
 
 - a ✨ _special_ ✨ repository for introducing myself.
 - 🚧 Xdocs: a comprehensive blog for beginners and experienced learners to learn and grow about front-end;
+- 🚧 Xdocs-LeetCode: a LeetCode-Javascript blog for algorithm learners from frontend;
 - 🌱 I’m currently learning react hooks, 
 - redux, react-router and mini-program(native & WeiXin)
 
